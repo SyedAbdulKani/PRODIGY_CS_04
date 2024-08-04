@@ -18,6 +18,10 @@ This Python script captures and logs keystrokes from the keyboard to a file name
 **pynput Library**: Install the pynput library using pip.
 
 **Installation**
+**Clone the repository**:
+  git clone https://github.com/SyedAbdulKani/PRODIGY_CS_04
+  cd SIMPLE-KEYLOGGERS
+  
 **Install pynput**:
 pip install pynput
 
